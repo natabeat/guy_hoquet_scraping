@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ef35b952-61db-4d97-ad33-a7db41fecad8" name="Changes" comment="structure project">
+    <list default="true" id="ef35b952-61db-4d97-ad33-a7db41fecad8" name="Changes" comment="test on societe.com">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/config/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraping/map_generator.py" beforeDir="false" afterPath="$PROJECT_DIR$/scraping/map_generator.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scraping/scrapers.py" beforeDir="false" afterPath="$PROJECT_DIR$/scraping/scrapers.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -75,6 +77,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.keymap",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -100,7 +103,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1726846547592</updated>
-      <workItem from="1726846553521" duration="4043000" />
+      <workItem from="1726846553521" duration="10177000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <option name="closed" value="true" />
@@ -134,7 +137,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726848800663</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="test on societe.com">
+      <option name="closed" value="true" />
+      <created>1726851200621</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1726851200621</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -155,11 +166,12 @@
     <MESSAGE value="first commit" />
     <MESSAGE value="readme updated" />
     <MESSAGE value="structure project" />
-    <option name="LAST_COMMIT_MESSAGE" value="structure project" />
+    <MESSAGE value="test on societe.com" />
+    <option name="LAST_COMMIT_MESSAGE" value="test on societe.com" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/guy_hoquet_scraping$settings.coverage" NAME="settings Coverage Results" MODIFIED="1726850256801" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/config" />
-    <SUITE FILE_PATH="coverage/guy_hoquet_scraping$scrapers.coverage" NAME="scrapers Coverage Results" MODIFIED="1726849584245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scraping" />
-    <SUITE FILE_PATH="coverage/guy_hoquet_scraping$main.coverage" NAME="main Coverage Results" MODIFIED="1726850548095" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/guy_hoquet_scraping$settings.coverage" NAME="settings Coverage Results" MODIFIED="1726859564542" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/config" />
+    <SUITE FILE_PATH="coverage/guy_hoquet_scraping$scrapers.coverage" NAME="scrapers Coverage Results" MODIFIED="1726859142928" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scraping" />
+    <SUITE FILE_PATH="coverage/guy_hoquet_scraping$main.coverage" NAME="main Coverage Results" MODIFIED="1726859964499" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

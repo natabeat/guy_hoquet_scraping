@@ -2,7 +2,6 @@ import folium
 from arcgis.gis import GIS
 from arcgis.geocoding import geocode
 
-
 def generate_map(names, addresses):
     # Créer la carte avec Folium
     customMap = folium.Map(tiles='OpenStreetMap', zoom_start=3)
